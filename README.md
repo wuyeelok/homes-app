@@ -1,5 +1,7 @@
 # Crash Course Angular Project: Homes App
 
+_Currently only support for local enviroment_
+
 - Install [nodejs](https://nodejs.org/) if you don't have it installed
 
 - Install Angular if you don't have it installed
